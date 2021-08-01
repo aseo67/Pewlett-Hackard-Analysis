@@ -4,7 +4,7 @@ Module 7 Challenge Data Analysis File Links
 - ![retirement_titles.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
 - ![unique_titles.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)
 - ![retiring_titles.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
-- ![mentoring_eligibilty.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
+- ![mentorship_eligibilty.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
 
 ## Overview of Analysis
 Pewlett-Hackard is a company with several thousand employees, many of whom are nearing retirement. Thus, the company will need to proactively plan ahead for positions that will need to be filled in the near future. This analysis conducts employee research, seeking answers to two primary questions, (1) who will be retiring soon and are eligible for the retirement package, and (2) how many positions will the company need to fill. As the company historically relied on Excel and VBA to store their data, this analysis also leverages a newer tool, SQL, to build an employee database to help answer these questions. 
