@@ -10,7 +10,6 @@ Module 7 Challenge Data Analysis File Links
 Pewlett-Hackard is a company with several thousand employees, many of whom are nearing retirement. Thus, the company will need to proactively plan ahead for positions that will need to be filled in the near future. This analysis conducts employee research, seeking answers to two primary questions, (1) who will be retiring soon and are eligible for the retirement package, and (2) how many positions will the company need to fill. As the company historically relied on Excel and VBA to store their data, this analysis also leverages a newer tool, SQL, to build an employee database to help answer these questions. 
 
 ## Results
-Bulleted list with 4 major points from two analysis deliverables
 - First, this analysis parses out which employees were born between Jan.1, 1952 and December 31, 1955, to help identify those nearing retirement. However, important to note that this list includes duplicates, as various employees have been promoted over the years; thus, they have multiple titles saved in their records. 
 
   ![retirement_titles.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
