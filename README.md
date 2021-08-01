@@ -47,7 +47,7 @@ Further analysis was conducted to help the company identify (1) what roles were 
   ![retiring_titles_curr.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles_curr.csv)
   ![Screenshot](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Screenshot_retiring_titles_curr.png)
   
-  3. For departments, Development followed by Production, then Sales are identified as the top 3 departments with most employees retiring soon.  
+  2. For departments, Development followed by Production, then Sales are identified as the top 3 departments with most employees retiring soon.  
 
   ![retiring_departments.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/retiring_departments.csv)
   ![Screenshot](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Screenshot_retiring_depts.png)
