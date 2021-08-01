@@ -25,7 +25,7 @@ Pewlett-Hackard is a company with several thousand employees, many of whom are n
   ![retiring_titles.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
   ![Screenshot](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Screenshot_retiring_titles.png)
 
-- Finally, given that many of the positions needing fills are the senior positions, one idea to help alleviate the transition pains of so many retiring employees, is to implement a mentorship program. Those eligible for the program are retiring employees who were born in 1965. The following analysis and table helps narrow the list for current employees, who qualify for this program. 
+- Finally, given that many of the positions needing fills are the senior positions, one idea to help alleviate the transition pains of so many retiring employees, is to implement a mentorship program. Those eligible for the program are retiring employees who were born in 1965. The following analysis and table helps narrow the list for current employees, who qualify for this program. We see a total of 1,549 employees who are eligibile for this mentorship program. 
 
   ![mentoring_eligibilty.csv](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
   ![Screenshot](https://github.com/aseo67/Pewlett-Hackard-Analysis/blob/main/Screenshot_mentorship_eligibility.png)
